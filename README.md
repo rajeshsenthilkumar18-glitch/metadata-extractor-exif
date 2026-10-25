@@ -57,3 +57,4 @@ Note: The output values depend on the input file.
 9. Conclusion
 
 The Metadata Extractor demonstrates how Python can be used to read a text file and extract basic file information efficiently.
+INTERN ID- CITS9879
